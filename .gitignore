@@ -1,0 +1,7 @@
+.vs
+out
+*.user
+*.suo
+*.opendb
+*.fd
+*.VC.db
